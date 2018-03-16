@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="pidedelivery">Pide por Delivery</string>
+    <string name="titulo">Nuestras pizzas</string>
+    <string name="masatipo1">Gruesa</string>
+    <string name="masatipo2">Delgada</string>
+    <string name="masatipo3">Artesanal</string>
+    <string name="complementos1">Complementos</string>
+    <string name="complemento1">Extra Jamon</string>
+    <string name="complemento2">Extra Queso Mozarella</string>
+</resources>
